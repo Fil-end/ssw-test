@@ -1,0 +1,1650 @@
+# Step | Energy (eV) | Status
+   0 |  -606.231543 | Initial
+   1 |  -606.207099 | Accepted
+   2 |  -608.337324 | Accepted
+   3 |  -608.334536 | Accepted
+   7 |  -608.327177 | Accepted
+   8 |  -608.323479 | Accepted
+   9 |  -608.323018 | Accepted
+  10 |  -608.328481 | Accepted
+  11 |  -608.328658 | Accepted
+  12 |  -608.329284 | Accepted
+  14 |  -608.541239 | Accepted
+  15 |  -608.541786 | Accepted
+  16 |  -608.536006 | Accepted
+  17 |  -608.538043 | Accepted
+  18 |  -608.552097 | Accepted
+  19 |  -608.552867 | Accepted
+  20 |  -608.545844 | Accepted
+  21 |  -608.543437 | Accepted
+  22 |  -608.549471 | Accepted
+  23 |  -608.550188 | Accepted
+  24 |  -608.541668 | Accepted
+  25 |  -608.550079 | Accepted
+  26 |  -608.548152 | Accepted
+  27 |  -608.549465 | Accepted
+  28 |  -608.550384 | Accepted
+  29 |  -608.539826 | Accepted
+  30 |  -608.555856 | Accepted
+  32 |  -608.553435 | Accepted
+  33 |  -608.562825 | Accepted
+  35 |  -608.553287 | Accepted
+  36 |  -608.550623 | Accepted
+  37 |  -608.548528 | Accepted
+  40 |  -608.553661 | Accepted
+  42 |  -608.547693 | Accepted
+  43 |  -608.550365 | Accepted
+  44 |  -608.552058 | Accepted
+  46 |  -608.553367 | Accepted
+  49 |  -608.621900 | Accepted
+  50 |  -608.628952 | Accepted
+  52 |  -608.624418 | Accepted
+  53 |  -608.623846 | Accepted
+  56 |  -608.619828 | Accepted
+  59 |  -608.610915 | Accepted
+  60 |  -608.605514 | Accepted
+  61 |  -608.608961 | Accepted
+  63 |  -608.608320 | Accepted
+  64 |  -608.603632 | Accepted
+  65 |  -608.598903 | Accepted
+  66 |  -608.603255 | Accepted
+  67 |  -608.608105 | Accepted
+  68 |  -608.598002 | Accepted
+  69 |  -608.753236 | Accepted
+  70 |  -608.747708 | Accepted
+  71 |  -608.755846 | Accepted
+  74 |  -608.747835 | Accepted
+  75 |  -608.756880 | Accepted
+  76 |  -608.761701 | Accepted
+  78 |  -608.768047 | Accepted
+  80 |  -608.754275 | Accepted
+  82 |  -608.761309 | Accepted
+  83 |  -608.758102 | Accepted
+  84 |  -608.767311 | Accepted
+  86 |  -608.760149 | Accepted
+  87 |  -608.761917 | Accepted
+  88 |  -608.758519 | Accepted
+  89 |  -608.760237 | Accepted
+  90 |  -608.757601 | Accepted
+  91 |  -608.763542 | Accepted
+  92 |  -608.750479 | Accepted
+  93 |  -608.761685 | Accepted
+  95 |  -608.752758 | Accepted
+  97 |  -608.758970 | Accepted
+  99 |  -608.762711 | Accepted
+ 100 |  -608.762712 | Accepted
+ 101 |  -608.764608 | Accepted
+ 102 |  -608.759644 | Accepted
+ 104 |  -608.761472 | Accepted
+ 105 |  -608.758112 | Accepted
+ 106 |  -608.762000 | Accepted
+ 107 |  -608.763677 | Accepted
+ 109 |  -608.766331 | Accepted
+ 111 |  -608.758518 | Accepted
+ 112 |  -608.758428 | Accepted
+ 113 |  -608.757525 | Accepted
+ 114 |  -608.756876 | Accepted
+ 115 |  -608.760492 | Accepted
+ 116 |  -608.755476 | Accepted
+ 117 |  -608.759059 | Accepted
+ 118 |  -608.753650 | Accepted
+ 119 |  -608.757887 | Accepted
+ 120 |  -608.768846 | Accepted
+ 122 |  -608.761676 | Accepted
+ 123 |  -608.759364 | Accepted
+ 126 |  -608.754222 | Accepted
+ 127 |  -608.756171 | Accepted
+ 129 |  -608.753202 | Accepted
+ 130 |  -608.765517 | Accepted
+ 131 |  -608.757114 | Accepted
+ 132 |  -609.235213 | Accepted
+ 133 |  -609.225467 | Accepted
+ 134 |  -609.225368 | Accepted
+ 135 |  -609.247338 | Accepted
+ 136 |  -609.253982 | Accepted
+ 137 |  -609.267006 | Accepted
+ 138 |  -609.271556 | Accepted
+ 139 |  -609.278133 | Accepted
+ 140 |  -609.278235 | Accepted
+ 142 |  -609.278593 | Accepted
+ 143 |  -609.284568 | Accepted
+ 144 |  -609.285043 | Accepted
+ 145 |  -609.281449 | Accepted
+ 147 |  -609.273041 | Accepted
+ 148 |  -609.268469 | Accepted
+ 149 |  -609.270471 | Accepted
+ 150 |  -609.276411 | Accepted
+ 151 |  -609.282055 | Accepted
+ 152 |  -609.280655 | Accepted
+ 155 |  -609.276427 | Accepted
+ 156 |  -609.270568 | Accepted
+ 157 |  -609.274910 | Accepted
+ 158 |  -609.277738 | Accepted
+ 159 |  -609.267522 | Accepted
+ 160 |  -609.276394 | Accepted
+ 161 |  -609.276748 | Accepted
+ 162 |  -609.280445 | Accepted
+ 163 |  -609.277932 | Accepted
+ 164 |  -609.273196 | Accepted
+ 165 |  -609.287993 | Accepted
+ 168 |  -609.273533 | Accepted
+ 169 |  -609.271485 | Accepted
+ 170 |  -609.279087 | Accepted
+ 171 |  -609.267677 | Accepted
+ 172 |  -609.265388 | Accepted
+ 173 |  -609.268652 | Accepted
+ 174 |  -609.271476 | Accepted
+ 175 |  -609.266030 | Accepted
+ 176 |  -609.272492 | Accepted
+ 177 |  -609.275824 | Accepted
+ 178 |  -609.270961 | Accepted
+ 179 |  -609.277726 | Accepted
+ 180 |  -609.288218 | Accepted
+ 181 |  -609.289272 | Accepted
+ 182 |  -609.277594 | Accepted
+ 183 |  -609.280883 | Accepted
+ 184 |  -609.281120 | Accepted
+ 185 |  -609.287540 | Accepted
+ 186 |  -609.281285 | Accepted
+ 189 |  -609.277825 | Accepted
+ 190 |  -609.286121 | Accepted
+ 191 |  -609.283198 | Accepted
+ 192 |  -609.287658 | Accepted
+ 193 |  -609.285666 | Accepted
+ 194 |  -609.282188 | Accepted
+ 195 |  -609.276586 | Accepted
+ 196 |  -609.265893 | Accepted
+ 197 |  -609.278762 | Accepted
+ 198 |  -609.272620 | Accepted
+ 199 |  -609.289418 | Accepted
+ 200 |  -609.273086 | Accepted
+ 201 |  -609.280155 | Accepted
+ 203 |  -609.274478 | Accepted
+ 204 |  -609.276470 | Accepted
+ 206 |  -609.275885 | Accepted
+ 207 |  -609.276446 | Accepted
+ 208 |  -609.277483 | Accepted
+ 209 |  -609.272698 | Accepted
+ 211 |  -609.278418 | Accepted
+ 212 |  -609.267739 | Accepted
+ 213 |  -609.280930 | Accepted
+ 214 |  -609.276449 | Accepted
+ 216 |  -609.276492 | Accepted
+ 218 |  -609.268739 | Accepted
+ 219 |  -609.279005 | Accepted
+ 222 |  -609.971103 | Accepted
+ 223 |  -609.970717 | Accepted
+ 228 |  -609.965660 | Accepted
+ 229 |  -609.969921 | Accepted
+ 230 |  -609.977505 | Accepted
+ 231 |  -610.525648 | Accepted
+ 232 |  -610.519138 | Accepted
+ 233 |  -610.535934 | Accepted
+ 234 |  -610.519196 | Accepted
+ 240 |  -610.540752 | Accepted
+ 241 |  -610.531719 | Accepted
+ 242 |  -610.537848 | Accepted
+ 243 |  -610.546193 | Accepted
+ 245 |  -610.550485 | Accepted
+ 247 |  -610.551268 | Accepted
+ 248 |  -610.548175 | Accepted
+ 249 |  -610.549981 | Accepted
+ 250 |  -610.548571 | Accepted
+ 251 |  -610.549356 | Accepted
+ 253 |  -610.545168 | Accepted
+ 254 |  -610.548577 | Accepted
+ 256 |  -610.549632 | Accepted
+ 257 |  -610.547756 | Accepted
+ 258 |  -610.550753 | Accepted
+ 259 |  -610.546723 | Accepted
+ 261 |  -610.550637 | Accepted
+ 262 |  -610.542713 | Accepted
+ 264 |  -610.550343 | Accepted
+ 265 |  -610.547613 | Accepted
+ 266 |  -610.544145 | Accepted
+ 268 |  -610.549898 | Accepted
+ 271 |  -610.551439 | Accepted
+ 273 |  -610.549959 | Accepted
+ 274 |  -610.559498 | Accepted
+ 275 |  -610.561208 | Accepted
+ 276 |  -610.545307 | Accepted
+ 277 |  -610.564195 | Accepted
+ 279 |  -610.559030 | Accepted
+ 282 |  -610.550848 | Accepted
+ 283 |  -610.558396 | Accepted
+ 284 |  -610.557541 | Accepted
+ 285 |  -610.564981 | Accepted
+ 286 |  -610.559473 | Accepted
+ 288 |  -610.556784 | Accepted
+ 289 |  -610.562045 | Accepted
+ 291 |  -610.544205 | Accepted
+ 293 |  -610.542399 | Accepted
+ 294 |  -610.543168 | Accepted
+ 295 |  -610.541937 | Accepted
+ 296 |  -610.561569 | Accepted
+ 297 |  -610.562765 | Accepted
+ 298 |  -610.563120 | Accepted
+ 299 |  -610.564409 | Accepted
+ 301 |  -610.564539 | Accepted
+ 302 |  -610.564075 | Accepted
+ 305 |  -610.559267 | Accepted
+ 306 |  -610.956622 | Accepted
+ 307 |  -610.995390 | Accepted
+ 310 |  -610.998268 | Accepted
+ 311 |  -610.996625 | Accepted
+ 312 |  -610.997114 | Accepted
+ 313 |  -610.994076 | Accepted
+ 314 |  -610.979243 | Accepted
+ 315 |  -610.990785 | Accepted
+ 316 |  -611.048751 | Accepted
+ 317 |  -611.052922 | Accepted
+ 318 |  -611.050561 | Accepted
+ 319 |  -611.051324 | Accepted
+ 320 |  -611.056507 | Accepted
+ 321 |  -611.056837 | Accepted
+ 323 |  -611.058821 | Accepted
+ 324 |  -611.051943 | Accepted
+ 325 |  -611.051259 | Accepted
+ 326 |  -611.179536 | Accepted
+ 327 |  -611.184113 | Accepted
+ 328 |  -611.183655 | Accepted
+ 329 |  -611.184714 | Accepted
+ 330 |  -611.181875 | Accepted
+ 331 |  -611.177375 | Accepted
+ 332 |  -611.183245 | Accepted
+ 334 |  -611.183334 | Accepted
+ 335 |  -611.363724 | Accepted
+ 336 |  -611.372158 | Accepted
+ 338 |  -611.370329 | Accepted
+ 339 |  -611.376943 | Accepted
+ 340 |  -611.374382 | Accepted
+ 341 |  -611.379380 | Accepted
+ 342 |  -611.378931 | Accepted
+ 343 |  -611.373920 | Accepted
+ 344 |  -611.375470 | Accepted
+ 345 |  -611.374235 | Accepted
+ 346 |  -611.376096 | Accepted
+ 349 |  -611.375659 | Accepted
+ 350 |  -611.370138 | Accepted
+ 351 |  -611.376983 | Accepted
+ 352 |  -611.375383 | Accepted
+ 355 |  -611.370279 | Accepted
+ 356 |  -611.371927 | Accepted
+ 357 |  -611.371685 | Accepted
+ 359 |  -611.375469 | Accepted
+ 361 |  -611.370960 | Accepted
+ 362 |  -611.376910 | Accepted
+ 363 |  -611.378006 | Accepted
+ 364 |  -611.373532 | Accepted
+ 365 |  -611.374119 | Accepted
+ 366 |  -611.375802 | Accepted
+ 367 |  -611.372177 | Accepted
+ 368 |  -611.375882 | Accepted
+ 370 |  -611.376367 | Accepted
+ 372 |  -611.373783 | Accepted
+ 373 |  -611.369266 | Accepted
+ 374 |  -611.375806 | Accepted
+ 375 |  -611.366332 | Accepted
+ 376 |  -611.368348 | Accepted
+ 377 |  -611.370116 | Accepted
+ 378 |  -611.377020 | Accepted
+ 379 |  -611.375123 | Accepted
+ 380 |  -611.374503 | Accepted
+ 382 |  -611.378156 | Accepted
+ 385 |  -611.371525 | Accepted
+ 386 |  -611.374076 | Accepted
+ 387 |  -611.366959 | Accepted
+ 388 |  -611.375232 | Accepted
+ 389 |  -611.375416 | Accepted
+ 390 |  -611.370565 | Accepted
+ 391 |  -611.369327 | Accepted
+ 392 |  -611.368743 | Accepted
+ 393 |  -611.368561 | Accepted
+ 394 |  -611.373166 | Accepted
+ 395 |  -611.376207 | Accepted
+ 396 |  -611.374106 | Accepted
+ 397 |  -611.368257 | Accepted
+ 399 |  -611.371808 | Accepted
+ 401 |  -611.365890 | Accepted
+ 402 |  -611.369349 | Accepted
+ 403 |  -611.372825 | Accepted
+ 404 |  -611.379896 | Accepted
+ 405 |  -611.376201 | Accepted
+ 406 |  -611.375119 | Accepted
+ 407 |  -611.375872 | Accepted
+ 408 |  -611.374156 | Accepted
+ 409 |  -611.374581 | Accepted
+ 410 |  -611.369228 | Accepted
+ 411 |  -611.374935 | Accepted
+ 412 |  -611.376526 | Accepted
+ 415 |  -611.372564 | Accepted
+ 416 |  -611.376059 | Accepted
+ 418 |  -611.373353 | Accepted
+ 419 |  -611.377401 | Accepted
+ 422 |  -611.376122 | Accepted
+ 423 |  -611.373216 | Accepted
+ 424 |  -611.373650 | Accepted
+ 425 |  -611.371893 | Accepted
+ 426 |  -611.369625 | Accepted
+ 427 |  -611.376166 | Accepted
+ 428 |  -611.370040 | Accepted
+ 429 |  -611.374049 | Accepted
+ 430 |  -611.373093 | Accepted
+ 431 |  -611.372097 | Accepted
+ 432 |  -611.371449 | Accepted
+ 433 |  -611.373889 | Accepted
+ 434 |  -611.375675 | Accepted
+ 435 |  -611.369678 | Accepted
+ 436 |  -611.377514 | Accepted
+ 438 |  -611.372415 | Accepted
+ 439 |  -611.376601 | Accepted
+ 441 |  -611.372251 | Accepted
+ 442 |  -611.375355 | Accepted
+ 443 |  -611.374705 | Accepted
+ 444 |  -611.370016 | Accepted
+ 445 |  -611.372262 | Accepted
+ 446 |  -611.377151 | Accepted
+ 447 |  -611.375612 | Accepted
+ 448 |  -611.374458 | Accepted
+ 449 |  -611.373952 | Accepted
+ 450 |  -611.375505 | Accepted
+ 451 |  -611.375831 | Accepted
+ 453 |  -611.371398 | Accepted
+ 454 |  -611.370734 | Accepted
+ 455 |  -611.373710 | Accepted
+ 456 |  -611.372774 | Accepted
+ 457 |  -611.370340 | Accepted
+ 459 |  -611.374557 | Accepted
+ 460 |  -611.373409 | Accepted
+ 461 |  -611.373396 | Accepted
+ 462 |  -611.374225 | Accepted
+ 463 |  -611.371092 | Accepted
+ 464 |  -611.373027 | Accepted
+ 465 |  -611.367319 | Accepted
+ 466 |  -611.373958 | Accepted
+ 467 |  -611.377652 | Accepted
+ 472 |  -611.372745 | Accepted
+ 473 |  -611.374815 | Accepted
+ 474 |  -611.374644 | Accepted
+ 475 |  -611.375664 | Accepted
+ 476 |  -611.375988 | Accepted
+ 478 |  -611.377292 | Accepted
+ 479 |  -611.374538 | Accepted
+ 480 |  -611.373624 | Accepted
+ 481 |  -611.374400 | Accepted
+ 482 |  -611.366752 | Accepted
+ 483 |  -611.375267 | Accepted
+ 485 |  -611.372036 | Accepted
+ 486 |  -611.371841 | Accepted
+ 487 |  -611.376946 | Accepted
+ 489 |  -611.375496 | Accepted
+ 490 |  -611.378305 | Accepted
+ 491 |  -611.372531 | Accepted
+ 492 |  -611.372647 | Accepted
+ 493 |  -611.373533 | Accepted
+ 494 |  -611.376059 | Accepted
+ 495 |  -611.377564 | Accepted
+ 496 |  -611.371021 | Accepted
+ 497 |  -611.371693 | Accepted
+ 498 |  -611.376793 | Accepted
+ 499 |  -611.374149 | Accepted
+ 500 |  -611.373257 | Accepted
+ 502 |  -611.372784 | Accepted
+ 503 |  -611.373457 | Accepted
+ 504 |  -611.373774 | Accepted
+ 505 |  -611.375243 | Accepted
+ 506 |  -611.371450 | Accepted
+ 507 |  -611.375116 | Accepted
+ 508 |  -611.376394 | Accepted
+ 509 |  -611.375318 | Accepted
+ 510 |  -611.367823 | Accepted
+ 511 |  -611.373948 | Accepted
+ 512 |  -611.369449 | Accepted
+ 513 |  -611.375587 | Accepted
+ 516 |  -611.373872 | Accepted
+ 517 |  -611.375812 | Accepted
+ 518 |  -611.373316 | Accepted
+ 520 |  -611.373451 | Accepted
+ 521 |  -611.374298 | Accepted
+ 522 |  -611.371017 | Accepted
+ 523 |  -611.375826 | Accepted
+ 526 |  -611.376384 | Accepted
+ 529 |  -611.375020 | Accepted
+ 530 |  -611.376656 | Accepted
+ 533 |  -611.374376 | Accepted
+ 534 |  -611.376727 | Accepted
+ 535 |  -611.376094 | Accepted
+ 537 |  -611.375603 | Accepted
+ 538 |  -611.374626 | Accepted
+ 539 |  -611.366636 | Accepted
+ 540 |  -611.376271 | Accepted
+ 541 |  -611.374658 | Accepted
+ 542 |  -611.372038 | Accepted
+ 543 |  -611.372174 | Accepted
+ 544 |  -611.372441 | Accepted
+ 545 |  -611.375556 | Accepted
+ 546 |  -611.371620 | Accepted
+ 547 |  -611.372397 | Accepted
+ 549 |  -611.365976 | Accepted
+ 550 |  -611.374081 | Accepted
+ 552 |  -611.374107 | Accepted
+ 553 |  -611.372209 | Accepted
+ 554 |  -611.370893 | Accepted
+ 555 |  -611.453193 | Accepted
+ 556 |  -611.459778 | Accepted
+ 557 |  -611.456596 | Accepted
+ 558 |  -611.445435 | Accepted
+ 559 |  -611.457917 | Accepted
+ 560 |  -611.461097 | Accepted
+ 561 |  -611.460664 | Accepted
+ 562 |  -611.458893 | Accepted
+ 563 |  -611.457611 | Accepted
+ 564 |  -611.456638 | Accepted
+ 565 |  -611.457348 | Accepted
+ 566 |  -611.457879 | Accepted
+ 567 |  -611.458283 | Accepted
+ 568 |  -611.457265 | Accepted
+ 569 |  -611.456598 | Accepted
+ 570 |  -611.448645 | Accepted
+ 572 |  -611.458524 | Accepted
+ 574 |  -611.459387 | Accepted
+ 575 |  -611.456442 | Accepted
+ 576 |  -611.461523 | Accepted
+ 577 |  -611.453632 | Accepted
+ 578 |  -611.456583 | Accepted
+ 579 |  -611.460029 | Accepted
+ 580 |  -611.459649 | Accepted
+ 581 |  -611.459706 | Accepted
+ 582 |  -611.473917 | Accepted
+ 583 |  -611.478501 | Accepted
+ 584 |  -611.478763 | Accepted
+ 585 |  -611.447481 | Accepted
+ 586 |  -611.458826 | Accepted
+ 587 |  -611.457866 | Accepted
+ 588 |  -611.464149 | Accepted
+ 589 |  -611.467800 | Accepted
+ 590 |  -611.477612 | Accepted
+ 591 |  -611.475120 | Accepted
+ 593 |  -611.480065 | Accepted
+ 595 |  -611.478906 | Accepted
+ 597 |  -611.476514 | Accepted
+ 598 |  -611.477746 | Accepted
+ 599 |  -611.479945 | Accepted
+ 600 |  -611.480499 | Accepted
+ 601 |  -611.481979 | Accepted
+ 602 |  -611.481456 | Accepted
+ 603 |  -611.482778 | Accepted
+ 604 |  -611.479005 | Accepted
+ 605 |  -611.476128 | Accepted
+ 606 |  -611.474853 | Accepted
+ 607 |  -611.477544 | Accepted
+ 608 |  -611.478430 | Accepted
+ 609 |  -611.476196 | Accepted
+ 610 |  -611.477383 | Accepted
+ 611 |  -611.473601 | Accepted
+ 612 |  -611.477805 | Accepted
+ 614 |  -611.474225 | Accepted
+ 615 |  -611.475431 | Accepted
+ 616 |  -611.468294 | Accepted
+ 617 |  -611.474304 | Accepted
+ 618 |  -611.473149 | Accepted
+ 619 |  -611.478238 | Accepted
+ 622 |  -611.470139 | Accepted
+ 623 |  -611.470044 | Accepted
+ 624 |  -611.473106 | Accepted
+ 625 |  -611.476872 | Accepted
+ 626 |  -611.480893 | Accepted
+ 627 |  -611.477714 | Accepted
+ 629 |  -611.475830 | Accepted
+ 630 |  -611.478436 | Accepted
+ 631 |  -611.476047 | Accepted
+ 632 |  -611.616676 | Accepted
+ 633 |  -611.615771 | Accepted
+ 634 |  -611.615766 | Accepted
+ 635 |  -611.616719 | Accepted
+ 636 |  -611.613140 | Accepted
+ 637 |  -611.615046 | Accepted
+ 638 |  -611.636166 | Accepted
+ 639 |  -611.679136 | Accepted
+ 640 |  -611.687879 | Accepted
+ 641 |  -611.686047 | Accepted
+ 642 |  -611.694874 | Accepted
+ 643 |  -611.691940 | Accepted
+ 644 |  -611.899381 | Accepted
+ 645 |  -611.913664 | Accepted
+ 646 |  -611.916530 | Accepted
+ 647 |  -611.917040 | Accepted
+ 648 |  -611.915657 | Accepted
+ 649 |  -611.931774 | Accepted
+ 651 |  -611.930651 | Accepted
+ 652 |  -611.933331 | Accepted
+ 653 |  -611.930770 | Accepted
+ 654 |  -611.928439 | Accepted
+ 655 |  -611.932279 | Accepted
+ 656 |  -611.928549 | Accepted
+ 657 |  -611.931408 | Accepted
+ 658 |  -611.932229 | Accepted
+ 659 |  -611.930890 | Accepted
+ 660 |  -611.927791 | Accepted
+ 661 |  -611.930952 | Accepted
+ 662 |  -611.933296 | Accepted
+ 663 |  -611.930714 | Accepted
+ 664 |  -611.929869 | Accepted
+ 665 |  -611.920220 | Accepted
+ 666 |  -611.918640 | Accepted
+ 667 |  -611.922074 | Accepted
+ 668 |  -611.929070 | Accepted
+ 669 |  -611.931311 | Accepted
+ 670 |  -611.932039 | Accepted
+ 671 |  -611.931618 | Accepted
+ 672 |  -611.924554 | Accepted
+ 673 |  -611.931037 | Accepted
+ 674 |  -611.932135 | Accepted
+ 675 |  -611.927219 | Accepted
+ 676 |  -611.932299 | Accepted
+ 677 |  -611.932218 | Accepted
+ 678 |  -611.929362 | Accepted
+ 679 |  -611.925664 | Accepted
+ 680 |  -611.922685 | Accepted
+ 681 |  -611.917845 | Accepted
+ 682 |  -611.917091 | Accepted
+ 683 |  -611.918894 | Accepted
+ 684 |  -611.917963 | Accepted
+ 685 |  -611.918498 | Accepted
+ 686 |  -611.931514 | Accepted
+ 687 |  -611.932065 | Accepted
+ 688 |  -611.933771 | Accepted
+ 689 |  -611.930251 | Accepted
+ 691 |  -611.928623 | Accepted
+ 692 |  -611.927099 | Accepted
+ 693 |  -611.931063 | Accepted
+ 694 |  -611.931179 | Accepted
+ 695 |  -611.928529 | Accepted
+ 696 |  -611.927703 | Accepted
+ 697 |  -611.927097 | Accepted
+ 698 |  -611.931180 | Accepted
+ 699 |  -611.930329 | Accepted
+ 700 |  -611.930235 | Accepted
+ 701 |  -611.931908 | Accepted
+ 703 |  -611.923870 | Accepted
+ 704 |  -611.927051 | Accepted
+ 705 |  -611.930154 | Accepted
+ 706 |  -611.932328 | Accepted
+ 708 |  -611.924206 | Accepted
+ 711 |  -611.931791 | Accepted
+ 712 |  -611.932797 | Accepted
+ 713 |  -611.932705 | Accepted
+ 714 |  -611.928007 | Accepted
+ 715 |  -611.932467 | Accepted
+ 716 |  -611.933454 | Accepted
+ 717 |  -611.934277 | Accepted
+ 718 |  -611.927949 | Accepted
+ 720 |  -611.930610 | Accepted
+ 721 |  -611.924166 | Accepted
+ 722 |  -611.923490 | Accepted
+ 723 |  -611.932358 | Accepted
+ 724 |  -611.930454 | Accepted
+ 725 |  -611.929841 | Accepted
+ 726 |  -611.926472 | Accepted
+ 727 |  -611.928515 | Accepted
+ 728 |  -611.931690 | Accepted
+ 729 |  -611.931002 | Accepted
+ 730 |  -611.929741 | Accepted
+ 731 |  -611.931617 | Accepted
+ 732 |  -611.930487 | Accepted
+ 734 |  -611.929516 | Accepted
+ 735 |  -611.929751 | Accepted
+ 736 |  -611.930949 | Accepted
+ 737 |  -611.930128 | Accepted
+ 740 |  -611.923907 | Accepted
+ 741 |  -611.928754 | Accepted
+ 742 |  -611.925162 | Accepted
+ 743 |  -611.928062 | Accepted
+ 744 |  -611.929613 | Accepted
+ 745 |  -611.928186 | Accepted
+ 746 |  -611.928475 | Accepted
+ 748 |  -611.927266 | Accepted
+ 749 |  -611.926129 | Accepted
+ 750 |  -611.931032 | Accepted
+ 751 |  -611.928379 | Accepted
+ 752 |  -611.930901 | Accepted
+ 753 |  -611.926529 | Accepted
+ 754 |  -611.933528 | Accepted
+ 755 |  -611.929859 | Accepted
+ 757 |  -611.925893 | Accepted
+ 758 |  -611.927197 | Accepted
+ 760 |  -611.926730 | Accepted
+ 761 |  -611.931037 | Accepted
+ 762 |  -611.933678 | Accepted
+ 763 |  -611.927381 | Accepted
+ 764 |  -611.927951 | Accepted
+ 765 |  -611.923066 | Accepted
+ 766 |  -611.928740 | Accepted
+ 767 |  -611.929079 | Accepted
+ 768 |  -611.930494 | Accepted
+ 769 |  -611.932559 | Accepted
+ 770 |  -611.925883 | Accepted
+ 771 |  -611.926630 | Accepted
+ 772 |  -611.929140 | Accepted
+ 773 |  -611.932718 | Accepted
+ 774 |  -611.930376 | Accepted
+ 775 |  -611.930781 | Accepted
+ 776 |  -611.932209 | Accepted
+ 777 |  -611.928031 | Accepted
+ 778 |  -611.932295 | Accepted
+ 779 |  -611.933603 | Accepted
+ 780 |  -611.933996 | Accepted
+ 781 |  -611.928948 | Accepted
+ 782 |  -611.932745 | Accepted
+ 783 |  -611.926413 | Accepted
+ 784 |  -611.929788 | Accepted
+ 785 |  -611.923056 | Accepted
+ 786 |  -611.927810 | Accepted
+ 788 |  -611.928464 | Accepted
+ 789 |  -611.930558 | Accepted
+ 790 |  -611.934252 | Accepted
+ 791 |  -611.930623 | Accepted
+ 794 |  -611.928116 | Accepted
+ 795 |  -611.931779 | Accepted
+ 796 |  -611.931854 | Accepted
+ 798 |  -611.930283 | Accepted
+ 799 |  -611.933848 | Accepted
+ 800 |  -611.924634 | Accepted
+ 801 |  -611.931795 | Accepted
+ 802 |  -611.929876 | Accepted
+ 803 |  -611.926319 | Accepted
+ 804 |  -611.928316 | Accepted
+ 805 |  -611.923929 | Accepted
+ 806 |  -611.929393 | Accepted
+ 808 |  -611.928428 | Accepted
+ 809 |  -611.930712 | Accepted
+ 810 |  -611.927512 | Accepted
+ 811 |  -611.928128 | Accepted
+ 812 |  -611.932909 | Accepted
+ 813 |  -611.927993 | Accepted
+ 814 |  -611.927704 | Accepted
+ 815 |  -611.928339 | Accepted
+ 816 |  -611.928896 | Accepted
+ 817 |  -611.928903 | Accepted
+ 818 |  -611.927765 | Accepted
+ 820 |  -611.929572 | Accepted
+ 821 |  -611.929853 | Accepted
+ 822 |  -611.932126 | Accepted
+ 823 |  -611.931455 | Accepted
+ 825 |  -611.931354 | Accepted
+ 826 |  -611.925328 | Accepted
+ 827 |  -611.920323 | Accepted
+ 828 |  -611.928271 | Accepted
+ 830 |  -611.924682 | Accepted
+ 831 |  -611.933585 | Accepted
+ 832 |  -611.928262 | Accepted
+ 833 |  -611.927590 | Accepted
+ 834 |  -611.926205 | Accepted
+ 835 |  -611.928162 | Accepted
+ 836 |  -611.929041 | Accepted
+ 837 |  -611.931511 | Accepted
+ 839 |  -611.932927 | Accepted
+ 840 |  -611.926721 | Accepted
+ 841 |  -611.930566 | Accepted
+ 842 |  -611.930263 | Accepted
+ 843 |  -611.931142 | Accepted
+ 844 |  -611.930751 | Accepted
+ 845 |  -611.930466 | Accepted
+ 846 |  -611.934878 | Accepted
+ 848 |  -611.927529 | Accepted
+ 849 |  -611.929349 | Accepted
+ 850 |  -611.930198 | Accepted
+ 851 |  -611.931451 | Accepted
+ 852 |  -611.931618 | Accepted
+ 853 |  -611.927694 | Accepted
+ 854 |  -611.928756 | Accepted
+ 855 |  -611.928059 | Accepted
+ 856 |  -611.926181 | Accepted
+ 857 |  -611.932644 | Accepted
+ 858 |  -611.932510 | Accepted
+ 859 |  -611.932233 | Accepted
+ 860 |  -611.931371 | Accepted
+ 861 |  -611.931830 | Accepted
+ 862 |  -611.933438 | Accepted
+ 864 |  -611.918808 | Accepted
+ 865 |  -611.930816 | Accepted
+ 866 |  -611.929931 | Accepted
+ 867 |  -611.931185 | Accepted
+ 868 |  -611.925127 | Accepted
+ 869 |  -611.932698 | Accepted
+ 870 |  -611.928436 | Accepted
+ 871 |  -611.931624 | Accepted
+ 873 |  -611.927697 | Accepted
+ 874 |  -611.930330 | Accepted
+ 875 |  -611.924903 | Accepted
+ 876 |  -611.925020 | Accepted
+ 877 |  -611.928288 | Accepted
+ 878 |  -611.926921 | Accepted
+ 879 |  -611.929151 | Accepted
+ 880 |  -611.933000 | Accepted
+ 882 |  -611.929396 | Accepted
+ 883 |  -611.927840 | Accepted
+ 885 |  -611.932368 | Accepted
+ 886 |  -611.929965 | Accepted
+ 887 |  -611.930554 | Accepted
+ 889 |  -611.931154 | Accepted
+ 890 |  -611.931467 | Accepted
+ 891 |  -611.929999 | Accepted
+ 892 |  -611.931145 | Accepted
+ 893 |  -611.931337 | Accepted
+ 894 |  -611.931217 | Accepted
+ 895 |  -611.931743 | Accepted
+ 896 |  -611.928251 | Accepted
+ 897 |  -611.930618 | Accepted
+ 898 |  -611.928936 | Accepted
+ 899 |  -611.930113 | Accepted
+ 902 |  -611.930467 | Accepted
+ 905 |  -611.931161 | Accepted
+ 906 |  -611.931105 | Accepted
+ 907 |  -611.926877 | Accepted
+ 908 |  -611.930638 | Accepted
+ 909 |  -611.928351 | Accepted
+ 910 |  -611.926536 | Accepted
+ 911 |  -611.932988 | Accepted
+ 913 |  -611.931875 | Accepted
+ 914 |  -611.923344 | Accepted
+ 915 |  -611.931923 | Accepted
+ 917 |  -611.933285 | Accepted
+ 918 |  -611.932042 | Accepted
+ 919 |  -611.921460 | Accepted
+ 920 |  -611.928915 | Accepted
+ 921 |  -611.927745 | Accepted
+ 922 |  -611.930837 | Accepted
+ 923 |  -611.929395 | Accepted
+ 924 |  -611.924123 | Accepted
+ 926 |  -611.927504 | Accepted
+ 927 |  -611.930764 | Accepted
+ 928 |  -611.933240 | Accepted
+ 929 |  -611.927496 | Accepted
+ 930 |  -611.931119 | Accepted
+ 931 |  -611.931421 | Accepted
+ 932 |  -611.924090 | Accepted
+ 933 |  -611.929709 | Accepted
+ 934 |  -611.930376 | Accepted
+ 935 |  -611.929866 | Accepted
+ 936 |  -611.933720 | Accepted
+ 937 |  -611.930708 | Accepted
+ 938 |  -611.933759 | Accepted
+ 939 |  -611.928163 | Accepted
+ 940 |  -611.930567 | Accepted
+ 941 |  -611.929325 | Accepted
+ 942 |  -611.928880 | Accepted
+ 943 |  -611.931477 | Accepted
+ 944 |  -611.930876 | Accepted
+ 945 |  -611.927771 | Accepted
+ 946 |  -611.928908 | Accepted
+ 947 |  -611.928920 | Accepted
+ 948 |  -611.931472 | Accepted
+ 949 |  -611.928875 | Accepted
+ 950 |  -611.928934 | Accepted
+ 951 |  -611.926755 | Accepted
+ 952 |  -611.932386 | Accepted
+ 954 |  -611.929128 | Accepted
+ 956 |  -611.924209 | Accepted
+ 957 |  -611.921926 | Accepted
+ 958 |  -611.932213 | Accepted
+ 961 |  -611.930461 | Accepted
+ 962 |  -611.929353 | Accepted
+ 964 |  -611.932412 | Accepted
+ 966 |  -611.928756 | Accepted
+ 967 |  -611.933926 | Accepted
+ 968 |  -611.931791 | Accepted
+ 969 |  -611.932141 | Accepted
+ 970 |  -611.926586 | Accepted
+ 971 |  -611.926892 | Accepted
+ 972 |  -611.924534 | Accepted
+ 973 |  -611.929127 | Accepted
+ 975 |  -611.932933 | Accepted
+ 978 |  -611.931262 | Accepted
+ 979 |  -611.931878 | Accepted
+ 980 |  -611.932967 | Accepted
+ 981 |  -611.935287 | Accepted
+ 982 |  -611.926210 | Accepted
+ 983 |  -611.935044 | Accepted
+ 984 |  -611.931664 | Accepted
+ 985 |  -611.933648 | Accepted
+ 986 |  -611.931525 | Accepted
+ 988 |  -611.929856 | Accepted
+ 989 |  -611.929978 | Accepted
+ 991 |  -611.927731 | Accepted
+ 992 |  -611.931030 | Accepted
+ 993 |  -611.933308 | Accepted
+ 995 |  -611.930396 | Accepted
+ 996 |  -611.932271 | Accepted
+ 999 |  -611.928960 | Accepted
+1000 |  -611.927437 | Accepted
+1001 |  -611.931029 | Accepted
+1002 |  -611.927041 | Accepted
+1003 |  -611.931638 | Accepted
+1004 |  -611.930598 | Accepted
+1006 |  -611.932587 | Accepted
+1008 |  -611.927638 | Accepted
+1009 |  -611.923299 | Accepted
+1011 |  -611.928728 | Accepted
+1012 |  -611.924565 | Accepted
+1013 |  -611.927503 | Accepted
+1014 |  -611.927541 | Accepted
+1016 |  -611.929612 | Accepted
+1017 |  -611.929054 | Accepted
+1019 |  -611.934131 | Accepted
+1020 |  -611.932830 | Accepted
+1024 |  -611.932805 | Accepted
+1025 |  -611.930241 | Accepted
+1027 |  -611.925098 | Accepted
+1028 |  -611.933654 | Accepted
+1032 |  -611.925715 | Accepted
+1033 |  -611.931603 | Accepted
+1034 |  -611.927488 | Accepted
+1035 |  -611.929188 | Accepted
+1036 |  -611.932052 | Accepted
+1037 |  -611.930129 | Accepted
+1038 |  -611.933275 | Accepted
+1039 |  -611.927270 | Accepted
+1040 |  -611.928220 | Accepted
+1041 |  -611.934880 | Accepted
+1044 |  -611.932548 | Accepted
+1045 |  -611.925220 | Accepted
+1046 |  -611.927917 | Accepted
+1047 |  -611.929435 | Accepted
+1048 |  -611.927791 | Accepted
+1049 |  -611.931451 | Accepted
+1053 |  -611.930950 | Accepted
+1054 |  -611.931798 | Accepted
+1055 |  -611.929111 | Accepted
+1056 |  -611.930379 | Accepted
+1057 |  -611.932471 | Accepted
+1058 |  -611.930097 | Accepted
+1059 |  -611.932307 | Accepted
+1060 |  -611.929993 | Accepted
+1061 |  -611.931889 | Accepted
+1062 |  -611.932242 | Accepted
+1063 |  -611.934571 | Accepted
+1064 |  -611.930458 | Accepted
+1065 |  -611.925500 | Accepted
+1066 |  -611.933864 | Accepted
+1067 |  -611.930891 | Accepted
+1068 |  -611.928802 | Accepted
+1069 |  -611.919312 | Accepted
+1070 |  -611.928101 | Accepted
+1071 |  -611.922766 | Accepted
+1073 |  -611.919907 | Accepted
+1074 |  -611.935094 | Accepted
+1076 |  -611.932996 | Accepted
+1077 |  -611.930980 | Accepted
+1078 |  -611.931659 | Accepted
+1079 |  -611.931823 | Accepted
+1080 |  -611.931285 | Accepted
+1081 |  -611.925166 | Accepted
+1082 |  -611.929730 | Accepted
+1083 |  -611.929144 | Accepted
+1085 |  -611.928784 | Accepted
+1086 |  -611.921396 | Accepted
+1087 |  -611.932528 | Accepted
+1088 |  -611.931857 | Accepted
+1089 |  -611.927005 | Accepted
+1090 |  -611.924567 | Accepted
+1091 |  -611.931323 | Accepted
+1092 |  -611.929643 | Accepted
+1093 |  -611.928136 | Accepted
+1094 |  -611.931188 | Accepted
+1095 |  -611.927195 | Accepted
+1096 |  -611.930309 | Accepted
+1097 |  -611.930536 | Accepted
+1098 |  -611.929922 | Accepted
+1099 |  -611.927752 | Accepted
+1100 |  -611.925802 | Accepted
+1101 |  -611.924242 | Accepted
+1102 |  -611.934260 | Accepted
+1104 |  -611.933190 | Accepted
+1105 |  -611.928743 | Accepted
+1106 |  -611.933931 | Accepted
+1108 |  -611.928444 | Accepted
+1109 |  -611.930318 | Accepted
+1110 |  -611.931577 | Accepted
+1111 |  -611.927311 | Accepted
+1112 |  -611.932387 | Accepted
+1113 |  -611.923407 | Accepted
+1114 |  -611.930905 | Accepted
+1115 |  -611.919604 | Accepted
+1116 |  -611.931932 | Accepted
+1117 |  -611.933374 | Accepted
+1118 |  -611.931137 | Accepted
+1119 |  -611.933797 | Accepted
+1120 |  -611.932817 | Accepted
+1121 |  -611.928379 | Accepted
+1122 |  -611.931895 | Accepted
+1123 |  -611.933596 | Accepted
+1124 |  -611.930048 | Accepted
+1126 |  -611.932216 | Accepted
+1127 |  -611.932048 | Accepted
+1128 |  -611.932074 | Accepted
+1132 |  -611.933051 | Accepted
+1133 |  -611.928984 | Accepted
+1134 |  -611.924607 | Accepted
+1135 |  -611.923540 | Accepted
+1136 |  -611.929573 | Accepted
+1137 |  -611.932420 | Accepted
+1138 |  -611.931215 | Accepted
+1139 |  -611.931344 | Accepted
+1140 |  -611.929119 | Accepted
+1141 |  -611.931466 | Accepted
+1143 |  -611.932480 | Accepted
+1144 |  -611.925536 | Accepted
+1146 |  -611.928119 | Accepted
+1147 |  -611.930037 | Accepted
+1148 |  -611.922118 | Accepted
+1149 |  -611.926594 | Accepted
+1150 |  -611.929282 | Accepted
+1152 |  -611.929675 | Accepted
+1153 |  -611.929039 | Accepted
+1155 |  -611.928855 | Accepted
+1156 |  -611.929704 | Accepted
+1157 |  -611.932125 | Accepted
+1158 |  -611.932636 | Accepted
+1159 |  -611.932233 | Accepted
+1161 |  -611.931259 | Accepted
+1162 |  -611.933416 | Accepted
+1163 |  -611.931541 | Accepted
+1164 |  -611.932520 | Accepted
+1165 |  -611.933446 | Accepted
+1166 |  -611.924988 | Accepted
+1168 |  -611.930640 | Accepted
+1169 |  -611.933653 | Accepted
+1170 |  -611.931155 | Accepted
+1171 |  -611.921784 | Accepted
+1172 |  -611.931862 | Accepted
+1173 |  -611.933356 | Accepted
+1174 |  -611.929140 | Accepted
+1175 |  -611.931153 | Accepted
+1176 |  -611.929863 | Accepted
+1177 |  -611.927135 | Accepted
+1178 |  -611.930526 | Accepted
+1179 |  -611.928371 | Accepted
+1180 |  -611.928933 | Accepted
+1182 |  -611.932163 | Accepted
+1183 |  -611.930108 | Accepted
+1184 |  -611.933872 | Accepted
+1185 |  -611.930502 | Accepted
+1186 |  -611.933163 | Accepted
+1189 |  -611.922378 | Accepted
+1190 |  -611.930864 | Accepted
+1191 |  -611.932427 | Accepted
+1192 |  -611.932474 | Accepted
+1194 |  -611.929333 | Accepted
+1197 |  -611.927968 | Accepted
+1198 |  -611.925029 | Accepted
+1199 |  -611.928956 | Accepted
+1200 |  -611.930664 | Accepted
+1201 |  -611.928718 | Accepted
+1202 |  -611.925507 | Accepted
+1203 |  -611.925921 | Accepted
+1204 |  -611.932907 | Accepted
+1205 |  -611.931477 | Accepted
+1206 |  -611.930962 | Accepted
+1207 |  -611.932503 | Accepted
+1208 |  -611.923369 | Accepted
+1209 |  -611.931230 | Accepted
+1211 |  -611.930753 | Accepted
+1212 |  -611.926665 | Accepted
+1213 |  -611.931527 | Accepted
+1214 |  -611.930705 | Accepted
+1215 |  -611.933308 | Accepted
+1218 |  -611.933321 | Accepted
+1220 |  -611.928093 | Accepted
+1221 |  -611.926184 | Accepted
+1222 |  -611.928296 | Accepted
+1223 |  -611.931466 | Accepted
+1224 |  -611.931117 | Accepted
+1225 |  -611.928762 | Accepted
+1226 |  -611.930715 | Accepted
+1227 |  -611.927758 | Accepted
+1228 |  -611.928438 | Accepted
+1231 |  -611.930106 | Accepted
+1232 |  -611.924115 | Accepted
+1233 |  -611.924604 | Accepted
+1234 |  -611.931504 | Accepted
+1235 |  -611.929753 | Accepted
+1236 |  -611.931873 | Accepted
+1237 |  -611.928133 | Accepted
+1238 |  -611.928354 | Accepted
+1239 |  -611.928044 | Accepted
+1240 |  -611.927737 | Accepted
+1241 |  -611.928580 | Accepted
+1242 |  -611.925346 | Accepted
+1243 |  -611.924974 | Accepted
+1244 |  -611.928375 | Accepted
+1245 |  -611.933766 | Accepted
+1246 |  -611.930465 | Accepted
+1247 |  -611.929738 | Accepted
+1248 |  -611.931949 | Accepted
+1249 |  -611.931460 | Accepted
+1250 |  -611.926193 | Accepted
+1251 |  -611.928063 | Accepted
+1253 |  -611.925211 | Accepted
+1254 |  -611.932795 | Accepted
+1255 |  -611.930108 | Accepted
+1257 |  -611.930788 | Accepted
+1258 |  -611.933994 | Accepted
+1259 |  -611.932613 | Accepted
+1261 |  -611.933674 | Accepted
+1262 |  -611.931356 | Accepted
+1264 |  -611.927903 | Accepted
+1265 |  -611.924598 | Accepted
+1266 |  -611.926930 | Accepted
+1267 |  -611.930521 | Accepted
+1268 |  -611.932068 | Accepted
+1269 |  -611.934546 | Accepted
+1271 |  -611.928280 | Accepted
+1272 |  -611.930671 | Accepted
+1273 |  -611.932218 | Accepted
+1274 |  -611.927473 | Accepted
+1275 |  -611.928365 | Accepted
+1276 |  -611.930565 | Accepted
+1277 |  -611.932889 | Accepted
+1279 |  -611.923715 | Accepted
+1280 |  -611.929128 | Accepted
+1281 |  -611.932613 | Accepted
+1282 |  -611.930739 | Accepted
+1283 |  -611.920986 | Accepted
+1284 |  -611.933437 | Accepted
+1285 |  -611.934300 | Accepted
+1286 |  -611.930935 | Accepted
+1287 |  -611.930486 | Accepted
+1288 |  -611.927925 | Accepted
+1289 |  -611.930460 | Accepted
+1290 |  -611.926519 | Accepted
+1291 |  -611.927843 | Accepted
+1292 |  -611.930034 | Accepted
+1293 |  -611.928669 | Accepted
+1294 |  -611.927973 | Accepted
+1295 |  -611.932122 | Accepted
+1297 |  -611.931106 | Accepted
+1298 |  -611.931712 | Accepted
+1299 |  -611.930883 | Accepted
+1300 |  -611.930668 | Accepted
+1301 |  -611.920443 | Accepted
+1302 |  -611.925934 | Accepted
+1303 |  -611.922861 | Accepted
+1304 |  -611.930601 | Accepted
+1305 |  -611.932093 | Accepted
+1308 |  -611.930278 | Accepted
+1309 |  -611.932462 | Accepted
+1310 |  -611.931193 | Accepted
+1311 |  -611.934067 | Accepted
+1314 |  -611.933302 | Accepted
+1315 |  -611.921646 | Accepted
+1316 |  -611.928151 | Accepted
+1317 |  -611.931387 | Accepted
+1319 |  -611.932817 | Accepted
+1320 |  -611.931430 | Accepted
+1321 |  -611.926937 | Accepted
+1322 |  -611.929342 | Accepted
+1323 |  -611.926331 | Accepted
+1324 |  -611.927045 | Accepted
+1325 |  -611.930922 | Accepted
+1326 |  -611.933757 | Accepted
+1328 |  -611.927258 | Accepted
+1329 |  -611.927866 | Accepted
+1330 |  -611.931633 | Accepted
+1333 |  -611.933610 | Accepted
+1334 |  -611.929424 | Accepted
+1335 |  -611.934235 | Accepted
+1336 |  -611.933160 | Accepted
+1337 |  -611.927744 | Accepted
+1338 |  -611.930862 | Accepted
+1340 |  -611.929236 | Accepted
+1341 |  -611.934287 | Accepted
+1343 |  -611.929487 | Accepted
+1344 |  -611.933879 | Accepted
+1345 |  -611.930839 | Accepted
+1346 |  -611.931200 | Accepted
+1347 |  -611.932104 | Accepted
+1348 |  -611.932331 | Accepted
+1350 |  -611.930458 | Accepted
+1351 |  -611.932516 | Accepted
+1352 |  -611.927686 | Accepted
+1353 |  -611.931284 | Accepted
+1354 |  -611.925857 | Accepted
+1356 |  -611.927627 | Accepted
+1357 |  -611.930738 | Accepted
+1358 |  -611.917451 | Accepted
+1359 |  -611.926166 | Accepted
+1360 |  -611.926052 | Accepted
+1362 |  -611.925738 | Accepted
+1363 |  -611.928998 | Accepted
+1364 |  -611.926173 | Accepted
+1365 |  -611.929744 | Accepted
+1366 |  -611.928539 | Accepted
+1367 |  -611.928869 | Accepted
+1369 |  -611.928705 | Accepted
+1370 |  -611.932118 | Accepted
+1371 |  -611.934161 | Accepted
+1372 |  -611.924061 | Accepted
+1373 |  -611.934080 | Accepted
+1374 |  -611.930659 | Accepted
+1376 |  -611.932979 | Accepted
+1377 |  -611.933012 | Accepted
+1378 |  -611.931597 | Accepted
+1379 |  -611.929255 | Accepted
+1380 |  -611.931704 | Accepted
+1382 |  -611.929364 | Accepted
+1383 |  -611.927136 | Accepted
+1384 |  -611.930631 | Accepted
+1385 |  -611.932707 | Accepted
+1386 |  -611.931797 | Accepted
+1388 |  -611.929847 | Accepted
+1389 |  -611.929087 | Accepted
+1390 |  -611.929405 | Accepted
+1391 |  -611.933144 | Accepted
+1392 |  -611.929236 | Accepted
+1393 |  -611.931267 | Accepted
+1394 |  -611.924755 | Accepted
+1395 |  -611.927707 | Accepted
+1396 |  -611.924566 | Accepted
+1397 |  -611.929295 | Accepted
+1398 |  -611.932160 | Accepted
+1400 |  -611.926256 | Accepted
+1401 |  -611.931924 | Accepted
+1402 |  -611.929151 | Accepted
+1404 |  -611.928286 | Accepted
+1405 |  -611.931806 | Accepted
+1406 |  -611.931213 | Accepted
+1407 |  -611.929415 | Accepted
+1408 |  -611.925679 | Accepted
+1409 |  -611.931534 | Accepted
+1410 |  -611.932690 | Accepted
+1413 |  -611.931281 | Accepted
+1414 |  -611.932164 | Accepted
+1415 |  -611.931203 | Accepted
+1416 |  -611.933720 | Accepted
+1417 |  -611.930811 | Accepted
+1418 |  -611.930290 | Accepted
+1419 |  -611.932258 | Accepted
+1422 |  -611.931375 | Accepted
+1423 |  -611.926605 | Accepted
+1424 |  -611.932071 | Accepted
+1425 |  -611.926294 | Accepted
+1426 |  -611.931716 | Accepted
+1427 |  -611.930811 | Accepted
+1428 |  -611.930749 | Accepted
+1429 |  -611.933582 | Accepted
+1430 |  -611.931467 | Accepted
+1431 |  -611.931870 | Accepted
+1432 |  -611.932746 | Accepted
+1433 |  -611.925124 | Accepted
+1434 |  -611.934342 | Accepted
+1435 |  -611.931244 | Accepted
+1436 |  -611.928576 | Accepted
+1437 |  -611.930595 | Accepted
+1438 |  -611.923146 | Accepted
+1439 |  -611.929481 | Accepted
+1440 |  -611.931663 | Accepted
+1441 |  -611.930971 | Accepted
+1442 |  -611.930417 | Accepted
+1443 |  -611.932813 | Accepted
+1445 |  -611.929465 | Accepted
+1446 |  -611.928467 | Accepted
+1447 |  -611.930784 | Accepted
+1448 |  -611.927803 | Accepted
+1449 |  -611.927038 | Accepted
+1450 |  -611.924162 | Accepted
+1451 |  -611.925451 | Accepted
+1452 |  -611.928509 | Accepted
+1453 |  -611.926964 | Accepted
+1454 |  -611.931619 | Accepted
+1455 |  -611.927013 | Accepted
+1456 |  -611.931277 | Accepted
+1457 |  -611.929115 | Accepted
+1458 |  -611.928540 | Accepted
+1461 |  -611.934285 | Accepted
+1463 |  -611.925626 | Accepted
+1464 |  -611.926876 | Accepted
+1465 |  -611.933677 | Accepted
+1466 |  -611.927285 | Accepted
+1467 |  -611.929212 | Accepted
+1468 |  -611.933450 | Accepted
+1469 |  -611.932755 | Accepted
+1470 |  -611.932413 | Accepted
+1472 |  -611.931116 | Accepted
+1473 |  -611.930980 | Accepted
+1474 |  -611.929976 | Accepted
+1475 |  -611.927489 | Accepted
+1476 |  -611.928822 | Accepted
+1477 |  -611.930893 | Accepted
+1478 |  -611.927363 | Accepted
+1479 |  -611.933160 | Accepted
+1480 |  -611.930880 | Accepted
+1481 |  -611.931005 | Accepted
+1483 |  -611.933337 | Accepted
+1484 |  -611.933553 | Accepted
+1485 |  -611.931222 | Accepted
+1486 |  -611.928051 | Accepted
+1490 |  -611.928920 | Accepted
+1491 |  -611.930594 | Accepted
+1494 |  -611.926942 | Accepted
+1495 |  -611.932625 | Accepted
+1496 |  -611.933309 | Accepted
+1499 |  -611.931338 | Accepted
+1501 |  -611.928334 | Accepted
+1502 |  -611.933656 | Accepted
+1503 |  -611.925118 | Accepted
+1507 |  -611.932440 | Accepted
+1508 |  -611.932135 | Accepted
+1509 |  -611.925290 | Accepted
+1510 |  -611.930917 | Accepted
+1511 |  -611.928600 | Accepted
+1512 |  -611.928747 | Accepted
+1514 |  -611.930616 | Accepted
+1515 |  -611.927447 | Accepted
+1516 |  -611.929827 | Accepted
+1517 |  -611.928844 | Accepted
+1518 |  -611.925925 | Accepted
+1519 |  -611.932830 | Accepted
+1520 |  -611.921783 | Accepted
+1521 |  -611.924750 | Accepted
+1522 |  -611.929369 | Accepted
+1523 |  -611.929005 | Accepted
+1524 |  -611.931908 | Accepted
+1525 |  -611.928461 | Accepted
+1526 |  -611.925681 | Accepted
+1527 |  -611.927421 | Accepted
+1528 |  -611.929866 | Accepted
+1529 |  -611.923997 | Accepted
+1531 |  -611.927608 | Accepted
+1533 |  -611.930270 | Accepted
+1534 |  -611.922966 | Accepted
+1535 |  -611.928671 | Accepted
+1536 |  -611.931124 | Accepted
+1537 |  -611.930241 | Accepted
+1538 |  -611.933887 | Accepted
+1539 |  -611.930690 | Accepted
+1540 |  -611.929036 | Accepted
+1541 |  -611.930365 | Accepted
+1542 |  -611.929046 | Accepted
+1543 |  -611.930777 | Accepted
+1544 |  -611.932919 | Accepted
+1545 |  -611.929061 | Accepted
+1546 |  -611.930868 | Accepted
+1547 |  -611.924879 | Accepted
+1550 |  -611.932594 | Accepted
+1551 |  -611.932596 | Accepted
+1552 |  -611.933219 | Accepted
+1555 |  -611.930726 | Accepted
+1556 |  -611.932281 | Accepted
+1557 |  -611.919630 | Accepted
+1558 |  -611.932489 | Accepted
+1559 |  -611.931968 | Accepted
+1561 |  -611.928911 | Accepted
+1562 |  -611.933683 | Accepted
+1563 |  -611.922699 | Accepted
+1564 |  -611.925775 | Accepted
+1565 |  -611.931288 | Accepted
+1567 |  -611.930117 | Accepted
+1568 |  -611.931484 | Accepted
+1569 |  -611.927764 | Accepted
+1570 |  -611.927694 | Accepted
+1571 |  -611.930617 | Accepted
+1572 |  -611.934324 | Accepted
+1573 |  -611.931981 | Accepted
+1574 |  -611.931609 | Accepted
+1575 |  -611.928892 | Accepted
+1577 |  -611.927558 | Accepted
+1578 |  -611.928474 | Accepted
+1580 |  -611.928816 | Accepted
+1581 |  -611.934013 | Accepted
+1582 |  -611.928491 | Accepted
+1583 |  -611.930511 | Accepted
+1584 |  -611.933113 | Accepted
+1588 |  -611.933955 | Accepted
+1590 |  -611.932535 | Accepted
+1592 |  -611.929516 | Accepted
+1593 |  -611.928303 | Accepted
+1594 |  -611.933432 | Accepted
+1595 |  -611.926516 | Accepted
+1596 |  -611.933591 | Accepted
+1597 |  -611.922572 | Accepted
+1598 |  -611.925001 | Accepted
+1599 |  -611.929589 | Accepted
+1600 |  -611.929692 | Accepted
+1601 |  -611.929350 | Accepted
+1602 |  -611.930211 | Accepted
+1603 |  -611.929975 | Accepted
+1604 |  -611.928651 | Accepted
+1605 |  -611.928587 | Accepted
+1606 |  -611.931820 | Accepted
+1607 |  -611.932392 | Accepted
+1608 |  -611.933377 | Accepted
+1609 |  -611.931714 | Accepted
+1610 |  -611.920998 | Accepted
+1611 |  -611.925147 | Accepted
+1612 |  -611.921116 | Accepted
+1613 |  -611.934147 | Accepted
+1614 |  -611.932085 | Accepted
+1615 |  -611.932111 | Accepted
+1616 |  -611.926257 | Accepted
+1617 |  -611.932728 | Accepted
+1618 |  -611.932130 | Accepted
+1619 |  -611.921252 | Accepted
+1620 |  -611.927418 | Accepted
+1622 |  -611.932286 | Accepted
+1623 |  -611.928975 | Accepted
+1625 |  -611.934917 | Accepted
+1626 |  -611.929519 | Accepted
+1627 |  -611.932815 | Accepted
+1628 |  -611.932806 | Accepted
+1629 |  -611.933556 | Accepted
+1630 |  -611.931268 | Accepted
+1631 |  -611.928941 | Accepted
+1633 |  -612.171118 | Accepted
+1634 |  -612.178326 | Accepted
+1635 |  -612.183108 | Accepted
+1636 |  -612.613001 | Accepted
+1637 |  -612.609816 | Accepted
+1638 |  -612.611522 | Accepted
+1639 |  -612.614889 | Accepted
+1640 |  -612.610274 | Accepted
+1641 |  -612.607662 | Accepted
+1642 |  -612.611376 | Accepted
+1643 |  -612.606015 | Accepted
+1644 |  -612.599947 | Accepted
+1646 |  -612.612979 | Accepted
+1650 |  -612.612589 | Accepted
+1652 |  -612.613146 | Accepted
+1654 |  -612.614598 | Accepted
+1655 |  -612.607945 | Accepted
+1656 |  -612.608140 | Accepted
+1657 |  -612.611746 | Accepted
+1658 |  -612.611430 | Accepted
+1659 |  -612.614864 | Accepted
+1660 |  -612.612032 | Accepted
+1661 |  -612.612087 | Accepted
+1662 |  -612.613941 | Accepted
+1663 |  -612.615045 | Accepted
+1665 |  -612.609014 | Accepted
+1666 |  -612.612607 | Accepted
+1668 |  -612.613077 | Accepted
+1670 |  -612.608426 | Accepted
+1671 |  -612.609621 | Accepted
+1674 |  -612.613467 | Accepted
+1675 |  -612.603590 | Accepted
+1676 |  -612.611428 | Accepted
+1677 |  -612.611265 | Accepted
+1678 |  -612.611183 | Accepted
+1679 |  -612.608588 | Accepted
+1680 |  -612.613802 | Accepted
+1681 |  -612.603825 | Accepted
+1682 |  -612.613419 | Accepted
+1683 |  -612.605329 | Accepted
+1684 |  -612.612364 | Accepted
+1686 |  -612.604302 | Accepted
+1687 |  -612.611895 | Accepted
+1688 |  -612.605252 | Accepted
+1689 |  -612.606344 | Accepted
+1691 |  -612.607475 | Accepted
+1692 |  -612.606199 | Accepted
+1693 |  -612.609409 | Accepted
+1694 |  -612.613166 | Accepted
+1695 |  -612.613050 | Accepted
+1696 |  -612.606956 | Accepted
+1697 |  -612.610441 | Accepted
+1698 |  -612.613176 | Accepted
+1699 |  -612.609174 | Accepted
+1700 |  -612.609857 | Accepted
+1701 |  -612.606257 | Accepted
+1702 |  -612.607527 | Accepted
+1703 |  -612.606656 | Accepted
+1704 |  -612.609278 | Accepted
+1707 |  -612.614405 | Accepted
+1708 |  -612.612275 | Accepted
+1709 |  -612.615628 | Accepted
+1710 |  -612.613169 | Accepted
+1711 |  -612.610229 | Accepted
+1712 |  -612.611185 | Accepted
+1713 |  -612.617159 | Accepted
+1715 |  -612.615266 | Accepted
+1716 |  -612.615121 | Accepted
+1717 |  -612.609547 | Accepted
+1719 |  -612.611705 | Accepted
+1720 |  -612.617024 | Accepted
+1721 |  -612.614498 | Accepted
+1722 |  -612.614889 | Accepted
+1723 |  -612.616947 | Accepted
+1724 |  -612.615436 | Accepted
+1725 |  -612.615288 | Accepted
+1726 |  -612.615792 | Accepted
+1727 |  -612.612274 | Accepted
+1728 |  -612.615262 | Accepted
+1730 |  -612.614781 | Accepted
+1731 |  -612.611796 | Accepted
+1732 |  -612.614596 | Accepted
+1733 |  -612.615494 | Accepted
+1734 |  -612.615168 | Accepted
+1735 |  -612.611654 | Accepted
+1736 |  -612.611536 | Accepted
+1737 |  -612.615186 | Accepted
+1738 |  -612.610738 | Accepted
+1741 |  -612.613873 | Accepted
+1742 |  -612.611530 | Accepted
+1743 |  -612.607840 | Accepted
+1744 |  -612.605223 | Accepted
+1745 |  -612.606815 | Accepted
+1746 |  -612.612055 | Accepted
+1747 |  -612.610915 | Accepted
+1748 |  -612.612387 | Accepted
+1749 |  -612.609637 | Accepted
+1750 |  -612.613998 | Accepted
+1751 |  -612.612567 | Accepted
+1752 |  -612.613824 | Accepted
+1753 |  -612.611675 | Accepted
+1754 |  -612.609739 | Accepted
+1755 |  -612.609621 | Accepted
+1756 |  -612.609187 | Accepted
+1758 |  -612.607164 | Accepted
+1759 |  -612.612977 | Accepted
+1760 |  -612.615064 | Accepted
+1761 |  -612.609960 | Accepted
+1762 |  -612.615261 | Accepted
+1763 |  -612.610727 | Accepted
+1764 |  -612.607959 | Accepted
+1765 |  -612.610008 | Accepted
+1766 |  -612.611077 | Accepted
+1767 |  -612.610772 | Accepted
+1769 |  -612.614609 | Accepted
+1770 |  -612.613676 | Accepted
+1771 |  -612.610910 | Accepted
+1772 |  -612.606129 | Accepted
+1773 |  -612.608751 | Accepted
+1774 |  -612.610940 | Accepted
+1775 |  -612.613634 | Accepted
+1776 |  -612.613184 | Accepted
+1779 |  -612.613586 | Accepted
+1780 |  -612.601265 | Accepted
+1781 |  -612.612510 | Accepted
+1782 |  -612.612853 | Accepted
+1783 |  -612.611854 | Accepted
+1784 |  -612.612122 | Accepted
+1785 |  -612.612916 | Accepted
+1786 |  -612.608205 | Accepted
+1787 |  -612.614753 | Accepted
+1788 |  -612.608787 | Accepted
+1789 |  -612.612442 | Accepted
+1790 |  -612.612455 | Accepted
+1791 |  -612.611218 | Accepted
+1792 |  -612.610900 | Accepted
+1793 |  -612.614775 | Accepted
+1794 |  -612.613350 | Accepted
+1795 |  -612.611784 | Accepted
+1796 |  -612.614551 | Accepted
+1797 |  -612.610599 | Accepted
+1798 |  -612.607609 | Accepted
+1799 |  -612.611596 | Accepted
+1800 |  -612.608042 | Accepted
+1801 |  -612.608238 | Accepted
+1802 |  -612.608330 | Accepted
+1803 |  -612.606593 | Accepted
+1805 |  -612.612400 | Accepted
+1806 |  -612.611560 | Accepted
+1807 |  -612.612824 | Accepted
+1809 |  -612.613555 | Accepted
+1811 |  -612.613442 | Accepted
+1813 |  -612.615569 | Accepted
+1814 |  -612.611416 | Accepted
+1815 |  -612.606768 | Accepted
+1816 |  -612.613699 | Accepted
+1817 |  -612.616662 | Accepted
+1818 |  -612.604250 | Accepted
+1819 |  -612.613250 | Accepted
+1820 |  -612.610667 | Accepted
+1821 |  -612.613790 | Accepted
+1822 |  -612.613854 | Accepted
+1823 |  -612.611721 | Accepted
+1824 |  -612.610387 | Accepted
+1825 |  -612.611315 | Accepted
+1826 |  -612.613207 | Accepted
+1827 |  -612.600819 | Accepted
+1828 |  -612.605188 | Accepted
+1829 |  -612.606143 | Accepted
+1830 |  -612.611518 | Accepted
+1834 |  -612.611541 | Accepted
+1835 |  -612.606699 | Accepted
+1836 |  -612.610006 | Accepted
+1837 |  -612.608281 | Accepted
+1838 |  -612.611747 | Accepted
+1839 |  -612.611344 | Accepted
+1840 |  -612.613733 | Accepted
+1841 |  -612.608869 | Accepted
+1842 |  -612.610003 | Accepted
+1843 |  -612.608813 | Accepted
+1845 |  -612.610811 | Accepted
+1846 |  -612.611592 | Accepted
+1847 |  -612.614107 | Accepted
+1849 |  -612.608813 | Accepted
+1850 |  -612.605397 | Accepted
+1851 |  -612.607691 | Accepted
+1852 |  -612.607021 | Accepted
+1853 |  -612.609208 | Accepted
+1854 |  -612.605154 | Accepted
+1855 |  -612.608594 | Accepted
+1856 |  -612.613244 | Accepted
+1857 |  -612.609079 | Accepted
+1858 |  -612.608800 | Accepted
+1860 |  -612.606370 | Accepted
+1861 |  -612.611050 | Accepted
+1864 |  -612.610576 | Accepted
+1865 |  -612.612938 | Accepted
+1866 |  -612.612312 | Accepted
+1867 |  -612.614959 | Accepted
+1868 |  -612.616333 | Accepted
+1869 |  -612.613959 | Accepted
+1870 |  -612.608544 | Accepted
+1872 |  -612.611412 | Accepted
+1873 |  -612.610154 | Accepted
+1874 |  -612.610130 | Accepted
+1875 |  -612.612539 | Accepted
+1877 |  -612.610559 | Accepted
+1878 |  -612.610319 | Accepted
+1879 |  -612.611345 | Accepted
+1881 |  -612.607851 | Accepted
+1882 |  -612.609387 | Accepted
+1883 |  -612.610132 | Accepted
+1884 |  -612.611134 | Accepted
+1885 |  -612.613803 | Accepted
+1886 |  -612.612015 | Accepted
+1887 |  -612.608176 | Accepted
+1888 |  -612.606744 | Accepted
+1889 |  -612.614320 | Accepted
+1890 |  -612.614278 | Accepted
+1891 |  -612.610966 | Accepted
+1892 |  -612.608175 | Accepted
+1893 |  -612.602105 | Accepted
+1894 |  -612.610588 | Accepted
+1895 |  -612.610552 | Accepted
+1896 |  -612.612759 | Accepted
+1897 |  -612.611155 | Accepted
+1898 |  -612.601879 | Accepted
+1899 |  -612.608049 | Accepted
+1901 |  -612.608575 | Accepted
+1902 |  -612.606733 | Accepted
+1903 |  -612.603419 | Accepted
+1904 |  -612.613302 | Accepted
+1905 |  -612.611592 | Accepted
+1906 |  -612.608613 | Accepted
+1908 |  -612.613966 | Accepted
+1909 |  -612.614215 | Accepted
+1910 |  -612.610646 | Accepted
+1911 |  -612.607632 | Accepted
+1912 |  -612.608192 | Accepted
+1914 |  -612.615091 | Accepted
+1915 |  -612.613563 | Accepted
+1916 |  -612.612341 | Accepted
+1917 |  -612.611724 | Accepted
+1918 |  -612.604299 | Accepted
+1920 |  -612.612723 | Accepted
+1921 |  -612.601790 | Accepted
+1922 |  -612.609006 | Accepted
+1923 |  -612.612708 | Accepted
+1924 |  -612.606169 | Accepted
+1925 |  -612.608018 | Accepted
+1926 |  -612.611955 | Accepted
+1927 |  -612.611913 | Accepted
+1928 |  -612.613039 | Accepted
+1929 |  -612.614400 | Accepted
+1930 |  -612.612882 | Accepted
+1931 |  -612.613137 | Accepted
+1932 |  -612.614084 | Accepted
+1933 |  -612.614289 | Accepted
+1934 |  -612.611921 | Accepted
+1935 |  -612.614792 | Accepted
+1936 |  -612.614427 | Accepted
+1938 |  -612.613939 | Accepted
+1939 |  -612.613982 | Accepted
+1940 |  -612.608227 | Accepted
+1941 |  -612.609816 | Accepted
+1942 |  -612.608093 | Accepted
+1943 |  -612.609980 | Accepted
+1946 |  -612.612698 | Accepted
+1947 |  -612.612327 | Accepted
+1950 |  -612.606721 | Accepted
+1951 |  -612.608896 | Accepted
+1952 |  -612.611228 | Accepted
+1953 |  -612.612204 | Accepted
+1954 |  -612.614726 | Accepted
+1955 |  -612.611771 | Accepted
+1956 |  -612.609717 | Accepted
+1957 |  -612.612327 | Accepted
+1959 |  -612.613389 | Accepted
+1961 |  -612.613777 | Accepted
+1962 |  -612.607447 | Accepted
+1963 |  -612.605804 | Accepted
+1964 |  -612.609644 | Accepted
+1965 |  -612.609573 | Accepted
+1966 |  -612.611124 | Accepted
+1967 |  -612.607997 | Accepted
+1968 |  -612.610805 | Accepted
+1969 |  -612.610851 | Accepted
+1972 |  -612.608151 | Accepted
+1973 |  -612.609891 | Accepted
+1974 |  -612.611586 | Accepted
+1978 |  -612.610903 | Accepted
+1979 |  -612.613554 | Accepted
+1982 |  -612.603309 | Accepted
+1983 |  -612.612329 | Accepted
+1984 |  -612.613588 | Accepted
+1986 |  -612.614491 | Accepted
+1987 |  -612.613699 | Accepted
+1988 |  -612.614750 | Accepted
+1989 |  -612.605727 | Accepted
+1990 |  -612.611919 | Accepted
+1991 |  -612.611106 | Accepted
+1992 |  -612.610918 | Accepted
+1993 |  -612.612193 | Accepted
+1994 |  -612.605560 | Accepted
+1995 |  -612.609507 | Accepted
+1996 |  -612.612210 | Accepted
+1997 |  -612.610215 | Accepted
+2000 |  -612.611466 | Accepted

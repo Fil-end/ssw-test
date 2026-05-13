@@ -1,0 +1,24 @@
+# Step | Energy (eV) | Status
+   0 |  -603.946682 | Initial
+   1 |  -604.603112 | Accepted
+   2 |  -605.650540 | Accepted
+   3 |  -605.799507 | Accepted
+   4 |  -605.848581 | Accepted
+   5 |  -607.491365 | Accepted
+   6 |  -607.832051 | Accepted
+   7 |  -607.836924 | Accepted
+   9 |  -607.845608 | Accepted
+  10 |  -607.847844 | Accepted
+  12 |  -607.854335 | Accepted
+  13 |  -607.930466 | Accepted
+  14 |  -607.926620 | Accepted
+  15 |  -607.928431 | Accepted
+  16 |  -607.936697 | Accepted
+  17 |  -607.945621 | Accepted
+  19 |  -607.950253 | Accepted
+  20 |  -607.949038 | Accepted
+  22 |  -607.952492 | Accepted
+  23 |  -607.950956 | Accepted
+  25 |  -607.951607 | Accepted
+  26 |  -607.969986 | Accepted
+  27 |  -608.122240 | Accepted
